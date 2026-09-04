@@ -1,0 +1,4 @@
+# Aucun objet replay ne doit JAMAIS etre commite : dans l'historique git, des
+# binaires ne s'effacent plus. Ils vivent en assets de release, donc supprimables.
+*.replay
+objects/
